@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('lista-empleados',[App\Http\Controllers\EmpleadosController::class, 'listaDeLosEmpleados']);
+Route::get('salario-de-los-empleados/{min}/{max}',[App\Http\Controllers\EmpleadosController::class, 'salarioDeLosEmpleados']);
+Route::get('email-empleados/{email}',[App\Http\Controllers\EmpleadosController::class, 'emailEmpleados']);

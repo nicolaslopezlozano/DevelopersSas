@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ingrid",
+        "lastname": "Harnache",
+        "email": "iharnache@hotmail.com",
+        "phone": "3212252159",
+        "address": "Cra. 4 #3-6",
+        "position": "Gerente General",
+        "salary": "30000",
+        "skills": "titulos internacionales"
+    },
+    {
+        "name": "Edward",
+        "lastname": "Camacho",
+        "email": "eddicamacho@hotmail.com",
+        "phone": "3132278899",
+        "address": "Calle 10 #7-118",
+        "position": "Ingeniero Industrial",
+        "salary": "5400",
+        "skills": "mejora de procesos"
+    },
+    {
+        "name": "nicolas",
+        "lastname": "Carpeta",
+        "email": "nicocarpeta@hotmail.com",
+        "phone": "3132278899",
+        "address": "Cra. 17 #6-11",
+        "position": "Operador en planta",
+        "salary": "1500",
+        "skills": "programador cnc"
+    },
+    {
+        "name": "Juan Camilo",
+        "lastname": "Romero",
+        "email": "jcami1974@gmail.com",
+        "phone": "3167839831",
+        "address": "Calle 8 #5-3",
+        "position": "Operador en planta",
+        "salary": "1500",
+        "skills": "programador cnc"
+    },
+    {
+    "name": "david",
+    "lastname": "Camacho",
+    "email": "davidcho@gmail.com",
+    "phone": "3242786756",
+    "address": "Cra. 6 #13-74",
+    "position": "Operador en planta",
+    "salary": "1500",
+    "skills": "almacenista"
+    }
+]
